@@ -1,6 +1,6 @@
 # Machine Learning Path by Chetan Malhotra
 1. [Data exploration using numpy, scipy, matplotlib, pandas ](https://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/)
-2. [Data munging with python] (https://www.analyticsvidhya.com/blog/2014/09/data-munging-python-using-pandas-baby-steps-python/)
+2. [Data munging with python](https://www.analyticsvidhya.com/blog/2014/09/data-munging-python-using-pandas-baby-steps-python/)
 3. [A framework to quickly build a predictive model in under 10 minutes using Python & create a benchmark solution for data science competitions](
 https://www.analyticsvidhya.com/blog/2015/09/build-predictive-model-10-minutes-python/)
 4. [Pandas techniques for data manipulation](https://www.analyticsvidhya.com/blog/2016/01/12-pandas-techniques-python-data-manipulation/
